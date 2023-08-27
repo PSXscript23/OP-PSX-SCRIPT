@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PSXscript23/OP-PSX-SCRIPT/main/like-sub!"))()
